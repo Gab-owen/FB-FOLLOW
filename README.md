@@ -1,15 +1,21 @@
 # 🔥 TangFollows - Your Ultimate Facebook FOLLOWERS 🚀
 ![image alt](https://github.com/Gab-owen/FB-FOLLOW/blob/71e6d39babd669c51003e0e21963c18da7a286ef/IMG_20250403_164127.JPG)
 🔍 TangFollows is an innovative tool designed to help you grow your Facebook followers safely and efficiently. With full integration to Tuongtaccheo, it simplifies tasks like follow and like missions, coin exchanges, and account management, making your experience seamless and hassle-free
+
 # PNX MENU
 💎 Coin-to-Followers Conversion: Turn your earned coins into real followers for any target account or post. Grow your presence without hassle.
 ✅ Automated Growth Engine: Run follow and like missions effortlessly with customizable delays to avoid account blocks and ensure smooth operation.
 🔄 Multi-Account Management: Handle multiple Facebook accounts seamlessly and run missions across all of them simultaneously.
 📊 Live Performance Dashboard: Track your progress in real-time with detailed statistics on coin balance, mission success rates, and failure history.
+
 # ⚙️ Installation
 pkg update -y && pkg upgrade -y
 pkg install git python-pip
-git clone 
+git clone https://github.com/Gab-owen/FB-FOLLOW
+cd FB-FOLLOW
+pip install -r requirements.txt
+python run.py
+
 # 🖥️ Usage
 1.Enter Cookies
 • Obtain cookies from:
@@ -39,6 +45,7 @@ Account Age: The account must be active for more than 3 days.
 💡 Tips:
 Use a Facebook account with a Vietnamese name to avoid mission errors.
 Ensure your following list is public for mission verification.
+
 # 📸 Screenshot
 ![image alt](https://github.com/Gab-owen/FB-FOLLOW/blob/71e6d39babd669c51003e0e21963c18da7a286ef/Screenshot_20250403_181555.jpg) ![image alt](https://github.com/Gab-owen/FB-FOLLOW/blob/71e6d39babd669c51003e0e21963c18da7a286ef/Screenshot_20250403_181447.jpg)
 # 🚨 Disclaimer
