@@ -15,6 +15,7 @@ git clone
 🍪 Tuongtaccheo: Access this site > Copy from the Network Tab.
 📘 Facebook: Use extensions like CookieDough in Chrome.
 Paste the cookies when prompted by the program.
+
 2. Select a Feature
 
 1. Starting a Facebook Follow Mission
