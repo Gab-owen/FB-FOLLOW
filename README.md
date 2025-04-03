@@ -16,12 +16,11 @@ git clone
 📘 Facebook: Use extensions like CookieDough in Chrome.
 Paste the cookies when prompted by the program.
 2. Select a Feature
-╭─────────────────── >> [PNX MENU] << ────────────────────╮
-│ 1. Starting a Facebook Follow Mission                       
-│ 2. Exchange Coins To Followers                              
-│ 3. Logout (Exit)           
-╰─ ╭────── ───────────────────────────────────────────────────╯
-   ╰─>
+
+1. Starting a Facebook Follow Mission
+2. Exchange Coins To Followers
+3. Logout (Exit)
+
 3.Run & Monitor
 • Set mission delay (minimum 10 seconds).
 • Use CTRL + C to skip stuck missions.
